@@ -260,5 +260,18 @@
       <enclosure url="https://archive.org/download/gambia-v-myanmar-icj-hearings/2026-01-29_session_B.mp3" length="48094732" type="audio/mpeg"/>
     </item>
 
+
+    <item>
+      <title>20 Nov 2026 — Judgment</title>
+      <itunes:episode>21</itunes:episode>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
+      <guid isPermaLink="false">gambia-v-myanmar-icj-hearings-2026-11-20</guid>
+      <description>Public sitting for the delivery of the Judgment in the case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening).</description>
+      <itunes:author>International Court of Justice</itunes:author>
+      <itunes:duration>2:54:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://archive.org/download/gambia-v-myanmar-icj-hearings/2026-11-20.mp3" length="123701811" type="audio/mpeg"/>
+    </item>
+
   </channel>
 </rss>
